@@ -1,4 +1,4 @@
-package mozuku
+package main
 
 import (
 	"fmt"
@@ -15,11 +15,6 @@ func GetSimilarWords(str string, filename string) *domain.Dictionary {
 	return searchedDictionary
 }
 
-func SortDictionary(filename string)  {
-
-}
-
 func main() {
-	GetSimilarWords("あいごう", "dic.csv")
+	GetSimilarWords("あいどりんぐ", "dic.csv")
 }
-
