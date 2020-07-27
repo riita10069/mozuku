@@ -1,3 +1,3 @@
-module github.com/Tech-Design-Inc/mozuku
+module tidy
 
 go 1.13
