@@ -1,3 +1,3 @@
-module github.com/Tech-Design-Inc/mozuku
+module github.com/riita10069/mozuku
 
 go 1.13
