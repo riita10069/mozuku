@@ -14,7 +14,3 @@ func GetSimilarWords(str string, filename string) *domain.Dictionary {
 	fmt.Println(searchedDictionary)
 	return searchedDictionary
 }
-
-func main() {
-	GetSimilarWords("あいどりんぐ", "dic.csv")
-}
