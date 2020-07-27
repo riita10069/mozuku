@@ -1,9 +1,9 @@
-package main
+package mozuku
 
 import (
 	"fmt"
-	"github.com/Tech-Design-Inc/mozuku/adapter"
-	"github.com/Tech-Design-Inc/mozuku/domain"
+	"github.com/riita10069/mozuku/adapter"
+	"github.com/riita10069/mozuku/domain"
 )
 
 func GetSimilarWords(str string, filename string) *domain.Dictionary {
