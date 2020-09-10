@@ -1,6 +1,5 @@
 # mozuku
 ![Test](https://github.com/riita10069/check_interface/workflows/Build/badge.svg)
-![Release](https://github.com/riita10069/check_interface/workflows/Build/badge.svg)
 
 Mozuku returns a thesaurus of the received words. 
 
