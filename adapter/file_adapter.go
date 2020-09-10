@@ -10,8 +10,8 @@ type FileAdapter struct {
 	Lines    []string
 }
 
-func NewFileAdapter(filename string) *FileAdapter {
-	return &FileAdapter{filename: filename}
+func NewFileAdapter() *FileAdapter {
+	return &FileAdapter{filename: "./dic.csv"}
 }
 
 
